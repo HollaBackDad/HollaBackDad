@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HollaBackDad
-- 👀 I’m interested in game design and coding in lua + C#
-- 🌱 I’m currently learning Unity Game Engine and C#
-- 💞️ I’m looking to collaborate on game code and assets
-- 📫 How to reach me? Send me an email andrew.cramton@gmail.com
+- 👀 I’m interested in game design, modding, and web tools for games.
+- 🌱 I’m currently working on web apps based in JS
+- 📫 How to reach me? Send me an email hollabackdad@gmail.com
 
 <!---
 HollaBackDad/HollaBackDad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
